@@ -2,6 +2,8 @@
 
 Find subdomains and check status in a blink of an eye
 
+* Built for ![wspider](https://github.com/wuseman/wspider)
+
 ### Preview
 
 ![wsubfind](https://user-images.githubusercontent.com/26827453/179432887-13bc9bbe-4afd-4021-bb25-97b5f7a8ab52.gif)
