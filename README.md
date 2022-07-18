@@ -8,18 +8,20 @@ Find subdomains and check status in a blink of an eye
 
 ### Getting Started
 
-	git clone https://github.com/wuseman/wsubdomain
-        cd wsubdomain
-        chmod +x wsubdomain.sh:x
-        ./wsubdomain.sh github.com
+```sh
+git clone https://github.com/wuseman/wsubdomain
+cd wsubdomain
+chmod +x wsubdomain.sh
+./wsubdomain.sh github.com
+```
 
 ### Requirements
 
 - Bash         - Find more info about _bash_ [here](https://www.gnu.org/software/bash/)
 - curl         - Find more info about _curl_ [here](https://curl.se/)
-- Gsed         - Find more info about _gsed_ [here](https://www.gnu.org/software/sed/)
-- Gawk 	       - Find more info about _gawk_ [here](https://www.gnu.org/software/gawk/)
+- GNU/Awk      - Find more info about _gawk_ [here](https://www.gnu.org/software/gawk/)
 - GNU/Paralell - Find more info about _parallel_ [here](https://www.gnu.org/software/parallel/)
+- GNU/Sed      - Find more info about _gsed_ [here](https://www.gnu.org/software/sed/)
 
 ### License
 
