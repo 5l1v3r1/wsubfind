@@ -8,8 +8,6 @@ Find subdomains and check status in a blink of an eye
 
 ![wsubfinddomain](https://user-images.githubusercontent.com/26827453/179434052-39a15bed-d6fb-4b65-9ce6-fd681cc236df.gif)
 
-![wsubfind](https://user-images.githubusercontent.com/26827453/179432887-13bc9bbe-4afd-4021-bb25-97b5f7a8ab52.gif)
-
 ### Getting Started
 
 ```sh
